@@ -1,3 +1,5 @@
+mod pricing;
+
 mod strategy {
     use crate::{OptionType, Position};
 
